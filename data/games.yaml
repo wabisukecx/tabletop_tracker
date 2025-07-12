@@ -1,0 +1,140 @@
+'191189':
+  best_player_count: 2人
+  id: '191189'
+  image_url: https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__original/img/4MsKNGm47PU9BGW4i2yamMlRSQ0=/0x0/filters:format(jpeg)/pic3189350.jpg
+  max_players: '4'
+  min_players: '1'
+  name: Aeon's End
+  names:
+    alternates:
+    - Konec věků
+    - Кінець віків
+    - Конец вечности
+    - 末日決戰
+    - 에이언즈 엔드
+    english: Aeon's End
+    japanese: イーオンズ・エンド
+    primary: Aeon's End
+  playing_time: '60'
+  ranking:
+    abstract: null
+    customizable: null
+    family: null
+    overall: 98
+    party: null
+    strategy: 88
+    thematic: null
+    war: null
+  rating: 7.87646
+'237182':
+  best_player_count: 4 players
+  id: '237182'
+  image_url: https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__original/img/E0s2LvtFA1L5YKk-_44D4u2VD2s=/0x0/filters:format(jpeg)/pic4254509.jpg
+  max_players: '4'
+  min_players: '2'
+  name: Root
+  names:
+    alternates:
+    - 'Root: A Game of Woodland Might and Right'
+    - Корни
+    - 茂林源記
+    - 루트
+    english: Root
+    japanese: ルート
+    primary: Root
+  playing_time: '90'
+  ranking:
+    abstract: null
+    customizable: null
+    family: null
+    overall: 30
+    party: null
+    strategy: 37
+    thematic: null
+    war: 13
+  rating: 8.07086
+'28720':
+  best_player_count: 4人
+  id: '28720'
+  image_url: https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__original/img/3ffdJj5Pz6HQrg09Kh8ecTen-TY=/0x0/filters:format(jpeg)/pic3469216.jpg
+  max_players: '4'
+  min_players: '2'
+  name: 'Brass: Lancashire'
+  names:
+    alternates:
+    - Brass
+    - Brass Deluxe
+    - Brass. Ланкашир
+    - 'Kohle: Mit Volldampf zum Reichtum'
+    - 工業革命
+    - 工業革命：蘭開夏
+    - '브라스: 랭커셔'
+    english: 'Brass: Lancashire'
+    japanese: ブラス：ランカシャー
+    primary: 'Brass: Lancashire'
+  playing_time: '120'
+  ranking:
+    abstract: null
+    customizable: null
+    family: null
+    overall: 21
+    party: null
+    strategy: 18
+    thematic: null
+    war: null
+  rating: 8.1973
+'298069':
+  best_player_count: 3-4 players
+  id: '298069'
+  image_url: https://cf.geekdo-images.com/_WY_JrQQRrSUlVof11hMpQ__original/img/x5IICp6q86ozlyzJjTcoNkMELnI=/0x0/filters:format(png)/pic5226311.png
+  max_players: '4'
+  min_players: '2'
+  name: Cubitos
+  names:
+    alternates:
+    - 'Cubitos: Ryzykowny Wyścig'
+    - Кубитос
+    - Кубітос
+    - 方块向前冲
+    - 큐비토스
+    english: Cubitos
+    japanese: キュビトス
+    primary: Cubitos
+  playing_time: '60'
+  ranking:
+    abstract: null
+    customizable: null
+    family: 106
+    overall: 466
+    party: null
+    strategy: null
+    thematic: null
+    war: null
+  rating: 7.38831
+'396790':
+  best_player_count: 3人
+  id: '396790'
+  image_url: https://cf.geekdo-images.com/fIVUaMvbfy6GCOgfxt7xaw__original/img/dBMnuz3SrgxsDLHT6pwbQFPQBIw=/0x0/filters:format(jpeg)/pic7647168.jpg
+  max_players: '4'
+  min_players: '1'
+  name: Nucleum
+  names:
+    alternates:
+    - Nukleum
+    - 核子激盪
+    - 核子激荡
+    - 뉴클리엄
+    english: Nucleum
+    japanese: ニュークレウム
+    primary: Nucleum
+  playing_time: '150'
+  ranking:
+    abstract: null
+    customizable: null
+    family: null
+    overall: 157
+    party: null
+    strategy: 94
+    thematic: null
+    war: null
+  rating: 8.12968

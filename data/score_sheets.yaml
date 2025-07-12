@@ -1,0 +1,30 @@
+'191189':
+  fields:
+  - global: true
+    name: ゲーム結果
+    options:
+    - 勝利
+    - 敗北
+    type: choice
+  game_type: 協力ゲーム
+  name: イーオンズ・エンド スコアシート
+  total_field: 合計
+'237182':
+  fields:
+  - default: 0
+    name: 基本スコア
+    type: number
+  game_type: 対戦ゲーム
+  name: ルート スコアシート
+  total_field: 合計
+'298069':
+  fields:
+  - default: false
+    name: ゴールした
+    points: 1
+    type: checkbox
+  - default: 0
+    name: ゴールから何マス
+    type: number
+  name: キュビトス スコアシート
+  total_field: 合計
